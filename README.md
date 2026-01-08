@@ -1,2 +1,2 @@
 # WaveManager-Extended
-Adds items 150 and 200 to the track history drop-down list on waveRadio (Explorer)
+Добавляет пункты 150 и 200 в выпадающий список истории треков на WaveManager ( https://core.waveradio.org/public/tools )

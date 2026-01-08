@@ -6,7 +6,7 @@
 После установки скрипта в интерфейсе WaveManager появятся две новые опции. Работает для всех станций: Provodach, Soviet, Witch, Nyanserver.
 
 # Установка
-1. Перейдите на сайт **[Tampermonkey](https://www.tampermonkey.net/)**, выберите свой браузер и установите расширение.
+1. Перейдите на сайт **[Tampermonkey](https://www.tampermonkey.net/)**.
 2. Выберите свой браузер и установите расширение.
 3. Скачайте файл script.js из этого репозитория.
 4. Импортируйте в Tampermonkey:

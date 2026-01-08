@@ -1,5 +1,6 @@
-# WaveManager-Extended
+# WaveManager Extended
 Добавляет пункты 150 и 200 в выпадающий список истории треков на [WaveManager](https://core.waveradio.org/public/tool).
+Официальный инструмент на сайте позволяет просмотреть лишь ограниченное количество последних треков (10, 20, 50 или 100). **WaveManager Extended** расширяет это ограничение до 200.
 ## Установка
 1. Перейдите на сайт [Tampermonkey](https://www.tampermonkey.net/).
 2. Выберите свой браузер и установите расширение.
